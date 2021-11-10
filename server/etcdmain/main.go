@@ -23,8 +23,6 @@ import (
 )
 
 func Main(args []string) {
-	checkSupportArch()
-
 	if len(args) > 1 {
 		cmd := args[1]
 		switch cmd {
