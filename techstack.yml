@@ -2,7 +2,7 @@ repo_name: Clivern/etcd
 report_id: 3b091b0aaa0c1ef208b745e5b1ed8fe1
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:18:38+00:00'
+timestamp: '2024-02-29T19:08:54+00:00'
 requested_by: Clivern
 provider: github
 branch: main
@@ -127,7 +127,7 @@ tools:
   last_updated_by: Lili Cosic
   last_updated_on: 2021-10-26 08:10:30.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
